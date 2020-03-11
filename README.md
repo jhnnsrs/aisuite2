@@ -9,11 +9,11 @@ AISuite is a GUI program aiming to provide aid on identifying and processing str
 
 ## Installation
 
-AISuite should run on every platform supporting Python 3.5.4 and Java 1.7. The authors have tested the program on Windows 7,8,10 with a standard Anaconda 4 installation and the modules provided in the environment.
+AISuite should run on every platform supporting Python 3.5.4 and Java 1.11. The authors have tested the program on Windows 7,8,10 with a standard Anaconda 4 installation and the modules provided in the environment.
 
 Due to AISuites dependency on Bioformats and its Java libraries, we advise you to take care that you have a suitable C compiler installed. You can install the Windows SDK 7.1 and .Net Framework 4.0 to perform the compilation steps.
 
-The Windows build is tested with Oracle JDK 1.7. You also need to install the Java Runtime Environment (JRE). Note that the bitness needs to match your Python version: if you use a 32-bit Python, then you need a 32-bit JDK; if you use a 64-bit Python, then you need a 64-bit JDK.
+The Windows build is tested with Oracle JDK 1.11. You also need to install the Java Runtime Environment (JRE). Note that the bitness needs to match your Python version: if you use a 32-bit Python, then you need a 32-bit JDK; if you use a 64-bit Python, then you need a 64-bit JDK.
 
 This repository comes provided with an Anaconda Environment Dump (environment.yml) that should help with installing the dependencies.
 
