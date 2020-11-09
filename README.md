@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/223964939.svg)](https://zenodo.org/badge/latestdoi/223964939)
+
+
 # AISuite
 
 Johannes Roos, Maren Engelhardt
