@@ -12,7 +12,7 @@ jmespath==0.9.4
 kiwisolver==1.1.0
 lxml==4.4.1
 matplotlib==3.1.2
-numpy==1.17.4
+numpy==1.21.0
 opencv-python==4.1.2.30
 openpyxl==3.0.1
 Pillow==9.0.1
